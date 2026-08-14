@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-vhib7a.saturadar88win.sbs/sitemap.xml
